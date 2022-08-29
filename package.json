@@ -1,0 +1,23 @@
+{
+  "name": "test-install-ajs-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPmv/test-install-ajs-platforms.git"
+  },
+  "author": "A.P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPmv/test-install-ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/AlexPmv/test-install-ajs-platforms#readme",
+  "dependencies": {
+    "@alexpmv/ajs-platforms": "^1.0.0"
+  }
+}
